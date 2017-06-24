@@ -1,6 +1,8 @@
 ## TUGAS AKHIR
-1.Freda Rizky Saputra (2014150136)
-2.Ishak Sulistiyo P   (2014150143)
+<ol>
+	<li>1.Freda Rizky Saputra (2014150136)</li>
+	<li>2.Ishak Sulistiyo P   (2014150143)</li>
+</ol>
 
 # Cara Install
 
@@ -16,7 +18,7 @@
 # My
 
 <a href="http://facebook.com/vansauter"><h3>Freda Rizky Saputra</h3></a>
-<a href="https://github.com/Freda46"><h3>Follow Github</h3></a>
+<a href="http://github.com/Freda46"><h3>Follow Github</h3></a>
 
 # Web
 
